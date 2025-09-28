@@ -2,6 +2,11 @@
 
 Export and import string data from **Monster Hunter Frontier ZZ BIN/PAC** (mhfpac.bin) files.
 
+This tool does not function properly with files from versions such as Forward 5 or G1.
+
+A template ZZ pac file can be found here:
+[Template](https://drive.google.com/file/d/1m6ys-Iqg2pex4ZBMnsh2LsVBJKz4CLuF/view?usp=drive_link)
+
 This toolset provides a simple workflow:
 - **Export** all null-terminated strings to a CSV.
 - **Edit** the CSV with your translations/changes.

@@ -1,6 +1,6 @@
 # MHFZ-Pac-Editor
 
-Export and import string data from **Monster Hunter Frontier BIN/PAC** (mhfpac.bin) files.
+Export and import string data from **Monster Hunter Frontier ZZ BIN/PAC** (mhfpac.bin) files.
 
 This toolset provides a simple workflow:
 - **Export** all null-terminated strings to a CSV.
